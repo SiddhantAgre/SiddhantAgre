@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhant kailas Agre
 - 👀 I’m interested in coding and exploring new things in it.
-- 🌱 I’m currently learning Web Developent.
+- 🌱 I'm skilled in front-end Development and gaining knowledge for back-end
 - 📫 You can reach me on my email: siddhantagre01@gmail.com or my instagram: Siddhant_agre_77
 
 <!---
